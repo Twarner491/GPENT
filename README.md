@@ -23,6 +23,7 @@
 - [https://robottini.altervista.org/cartesio-low-cost-cartesian-plotter-robot](https://robottini.altervista.org/cartesio-low-cost-cartesian-plotter-robot)
 - [https://marlinfw.org/](https://marlinfw.org/)
 - [https://github.com/synthetos/TinyG/wiki/Jerk-Controlled-Motion-Explained](https://github.com/synthetos/TinyG/wiki/Jerk-Controlled-Motion-Explained)
+- [http://3digitalcooks.com/2013/12/setup-servo-with-marlin/](http://3digitalcooks.com/2013/12/setup-servo-with-marlin/)
 
 ---
 - [Fork this repository](https://github.com/Twarner491/VonNiemannProbe/fork)
