@@ -13,6 +13,14 @@
 ## Sources -
 - [https://github.com/sjvasquez/handwriting-synthesis](https://github.com/sjvasquez/handwriting-synthesis)
 - [https://arxiv.org/abs/1308.0850](https://arxiv.org/abs/1308.0850)
+- [https://www.youtube.com/watch?v=8WLZ8OesMF4](https://www.youtube.com/watch?v=8WLZ8OesMF4)
+- [https://floorvandevelde.com/Core-XY-Pen-Plotter](https://floorvandevelde.com/Core-XY-Pen-Plotter)
+- [https://www.arnabkumardas.com/cnc.html](https://www.arnabkumardas.com/cnc.html)
+- [https://www.axidraw.com/](https://www.axidraw.com/)
+- [https://www.instructables.com/4xiDraw/](https://www.instructables.com/4xiDraw/)
+- [https://hackaday.com/2012/09/18/center-pivot-pen-plotter/](https://hackaday.com/2012/09/18/center-pivot-pen-plotter/)
+- [http://www.makelangelo.com/](http://www.makelangelo.com/)
+- [https://robottini.altervista.org/cartesio-low-cost-cartesian-plotter-robot](https://robottini.altervista.org/cartesio-low-cost-cartesian-plotter-robot)
 
 ---
 - [Fork this repository](https://github.com/Twarner491/VonNiemannProbe/fork)
