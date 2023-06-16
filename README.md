@@ -21,6 +21,8 @@
 - [https://hackaday.com/2012/09/18/center-pivot-pen-plotter/](https://hackaday.com/2012/09/18/center-pivot-pen-plotter/)
 - [http://www.makelangelo.com/](http://www.makelangelo.com/)
 - [https://robottini.altervista.org/cartesio-low-cost-cartesian-plotter-robot](https://robottini.altervista.org/cartesio-low-cost-cartesian-plotter-robot)
+- [https://marlinfw.org/](https://marlinfw.org/)
+- [https://github.com/synthetos/TinyG/wiki/Jerk-Controlled-Motion-Explained](https://github.com/synthetos/TinyG/wiki/Jerk-Controlled-Motion-Explained)
 
 ---
 - [Fork this repository](https://github.com/Twarner491/VonNiemannProbe/fork)
