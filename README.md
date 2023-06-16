@@ -1,9 +1,9 @@
-# gpent: A GPT-Integrated Pen Plotter
+# GPENT: A GPT-Integrated Pen Plotter
 ### Devoloped by [Teddy Warner](https://teddywarner.org/About-Me/about/) and [Jack Hollingsworth](http://fabacademy.org/2021/labs/charlotte/students/jack-hollingsworth/about/).
 
 **A Generative "Pen-Trained" Transformer!**
 
-### Check out the gpent's documentation on [TeddyWarner.org](https://teddywarner.org/Projects/gpent/)!
+### Check out the GPENT's documentation on [TeddyWarner.org](https://teddywarner.org/Projects/GPENT/)!
 
 **© Teddy Warner & Jack Hollingsworth- 2023**
 > This work may be reproduced, modified, distributed, performed, and displayed for any purpose,
