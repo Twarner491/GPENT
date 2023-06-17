@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Protocol 2 - SVG Art Generator</title>
+    <link rel="stylesheet" href="protocol2.css">
+</head>
+<body>
+    <h1>Protocol 2</h1>
+
+    <div id="controls">
+        <div class="slider-column">
+            <label for="degree">Degree:</label>
+            <input type="range" id="degree" min="2" max="8" value="2">
+            <span id="degreeValue">2</span>
+            <br>
+            
+            <label for="amplitude">Amplitude:</label>
+            <input type="range" id="amplitude" min="10" max="700" value="100">
+            <span id="amplitudeValue">100</span>
+            <br>
+            
+            <label for="frequency">Frequency:</label>
+            <input type="range" id="frequency" min="0.1" max="2" step="0.1" value="1">
+            <span id="frequencyValue">1</span>
+            <br>
+            
+            <label for="phase">Phase:</label>
+            <input type="range" id="phase" min="0" max="360" value="0">
+            <span id="phaseValue">0</span>
+            <br>
+            
+            <label for="shiftX">Shift X:</label>
+            <input type="range" id="shiftX" min="-200" max="200" value="0">
+            <span id="shiftXValue">0</span>
+            <br>
+            
+            <label for="shiftY">Shift Y:</label>
+            <input type="range" id="shiftY" min="-200" max="200" value="0">
+            <span id="shiftYValue">0</span>
+            <br>
+            
+            <label for="ellipseWidth">Ellipse Width:</label>
+            <input type="range" id="ellipseWidth" min="10" max="100" value="30">
+            <span id="ellipseWidthValue">30</span>
+            <br>
+            
+            <label for="ellipseHeight">Ellipse Height:</label>
+            <input type="range" id="ellipseHeight" min="10" max="100" value="20">
+            <span id="ellipseHeightValue">20</span>
+            <br>
+        </div>
+    </div>
+
+    <div class="switch-protocol">
+        <label for="switchProtocol">Switch Protocol:</label>
+        <select id="switchProtocol">
+            <option value="index.html">Protocol 1</option>
+            <option value="protocol2.html" selected>Protocol 2</option>
+        </select>
+    </div>
+
+    <div id="canvas">
+        <svg id="svgContainer" width="1414" height="1000"></svg>
+    </div>
+
+    <script src="protocol2.js"></script>
+    <script>
+        // Attach event listeners to the sliders
+        const sliders = document.querySelectorAll('input[type="range"]');
+        sliders.forEach((slider) => {
+            slider.addEventListener('input', () => {
+                const valueSpan = document.getElementById(`${slider.id}Value`);
+                valueSpan.textContent = slider.value;
+                generateArt();
+            });
+        });
+    </script>
+</body>
+</html>

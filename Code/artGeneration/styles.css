@@ -1,0 +1,18 @@
+#controls {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.slider-column {
+    margin: 0 20px;
+}
+
+#canvas {
+    display: flex;
+    justify-content: center;
+}
+
+#svgContainer {
+    border: 1px solid black;
+}

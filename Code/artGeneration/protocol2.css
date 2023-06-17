@@ -1,0 +1,43 @@
+/* Add your existing CSS styles here */
+
+#controls {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.slider-column {
+    width: 100%;
+    max-width: 300px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.slider-column label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.switch-protocol {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.switch-protocol label {
+    margin-right: 10px;
+}
+
+#canvas {
+    margin-left: 320px; /* Adjust as needed */
+}
+
+.download-options {
+    position: fixed;
+    left: 20px;
+    bottom: 20px;
+}
+
+.download-options button {
+    margin-bottom: 5px;
+}
