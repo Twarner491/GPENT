@@ -54,19 +54,18 @@
             <input type="range" id="ellipseSpacing" min="0.2" max="5" value="3" step="0.1">
             <span id="ellipseSpacingValue">10</span>
             <br>
+            
+            <label for="ellipseRotation">Ellipse Rotation:</label>
+            <input type="range" id="ellipseRotation" min="0" max="360" value="0">
+            <span id="ellipseRotationValue">0</span>
+            <br>
         </div>
     </div>
 
-    <div class="switch-protocol">
-        <label for="switchProtocol">Switch Protocol:</label>
-        <select id="switchProtocol">
-            <option value="index.html">Protocol 1</option>
-            <option value="protocol2.html" selected>Protocol 2</option>
-        </select>
-    </div>
+    <a href="protocol1.html">Switch to Protocol 1</a>
 
     <div id="canvas">
-        <svg id="svgContainer" width="1414" height="1000"></svg>
+        <svg id="svgContainer" width="1188px" height="1682px"></svg>
     </div>
 
     <script src="protocol2.js"></script>
