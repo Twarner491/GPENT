@@ -24,6 +24,7 @@
 - [https://marlinfw.org/](https://marlinfw.org/)
 - [https://github.com/synthetos/TinyG/wiki/Jerk-Controlled-Motion-Explained](https://github.com/synthetos/TinyG/wiki/Jerk-Controlled-Motion-Explained)
 - [http://3digitalcooks.com/2013/12/setup-servo-with-marlin/](http://3digitalcooks.com/2013/12/setup-servo-with-marlin/)
+- [https://www.youtube.com/watch?v=cQO2XTP7QDw](https://www.youtube.com/watch?v=cQO2XTP7QDw)
 
 ---
 - [Fork this repository](https://github.com/Twarner491/VonNiemannProbe/fork)
