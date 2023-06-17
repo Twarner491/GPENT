@@ -3,6 +3,7 @@
  ![](https://raw.githubusercontent.com/Twarner491/GPENT/main/CAD/Assets/Logos/gpent-logo.png)
 
 </center>
+
 ### Devoloped by [Teddy Warner](https://teddywarner.org/About-Me/about/) and [Jack Hollingsworth](http://fabacademy.org/2021/labs/charlotte/students/jack-hollingsworth/about/).
 
 **A Generative "Pen-Trained" Transformer!**
